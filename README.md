@@ -4,4 +4,4 @@
 </div>
 <br>
 
-# KotlinDrums Is A Simple Drums Playing Program In Kotlin (While Learning)
+# KotlinDrums Is A Simple Drums Playing Program In Kotlin.
